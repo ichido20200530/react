@@ -24,4 +24,5 @@ function App() {
 }
 
 // Comment
+// comment2
 export default App;
